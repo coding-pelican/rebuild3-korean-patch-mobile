@@ -1,1 +1,1 @@
-# Rebuild 3 한글패치 for 모바일
+# Rebuild 3 한국어화 언어 팩 for 모바일
